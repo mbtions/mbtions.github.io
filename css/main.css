@@ -282,6 +282,7 @@ h1#hello {
   display: flex;
   /* align-items: first baseline; */
   justify-content: space-between;
+  /* width: 50%; */
 }
 .org_details li {
   list-style: none;
